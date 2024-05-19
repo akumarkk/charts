@@ -1,0 +1,5 @@
+secrets:
+  storage.password: "44NBEEG7RGVq4X4n"
+  storage.username: SVCSREWISHLENZ
+  index.search.elasticsearch.http.auth.basic.username: "SVCSREROLLBACK"
+  index.search.elasticsearch.http.auth.basic.password: "v57z4NADR4CLTEcb5"
